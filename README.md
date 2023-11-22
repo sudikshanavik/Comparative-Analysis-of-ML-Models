@@ -1,4 +1,6 @@
 # Comparative-Analysis-of-ML-Models
+## Members :-
+### Drashtant Singh Rathod, Sudiksha Navik, Shashank Ropalu
 + Classified the levels of anxiety among different age groups by various Machine Learning algorithms to predict the level of anxiety.
 + Conducted in-depth Exploratory Data Analysis (EDA) on a diverse dataset to gain insights into underlying patterns and trends.
 + Implemented and compared various machine learning models, including Logistic Regression, Decision Tree, and Support Vector Machine (SVM), to assess their prediction performance.
